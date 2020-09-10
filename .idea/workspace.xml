@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="223bbd50-63e8-4cb8-b363-aec10214cbdb" name="Default Changelist" comment="" />
+    <list default="true" id="223bbd50-63e8-4cb8-b363-aec10214cbdb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hJYGdwjD9VOXCSgacR6S4gIN6a" />
   <component name="ProjectViewState">
@@ -31,10 +36,43 @@
       <option name="presentableId" value="Default" />
       <updated>1599730567936</updated>
       <workItem from="1599730569118" duration="91000" />
+      <workItem from="1599730667030" duration="327000" />
     </task>
+    <task id="LOCAL-00001" summary="add all files">
+      <created>1599730699036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599730699036</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add nodemon">
+      <created>1599730741026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599730741026</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="add all files" />
+    <MESSAGE value="add nodemon" />
+    <option name="LAST_COMMIT_MESSAGE" value="add nodemon" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1347" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1599730740923">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state x="1347" y="27" width="912" height="741" key="CommitChangelistDialog2/1280.0.1366.768/0.27.1280.997@1280.0.1366.768" timestamp="1599730740923" />
+    <state x="1591" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1599730670038">
+      <screen x="1280" y="0" width="1366" height="768" />
+    </state>
+    <state x="1591" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/1280.0.1366.768/0.27.1280.997@1280.0.1366.768" timestamp="1599730670038" />
   </component>
 </project>
